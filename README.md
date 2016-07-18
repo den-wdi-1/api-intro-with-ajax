@@ -422,3 +422,7 @@ For reference in case you feel stuck. Don't copy and paste! Take a look and then
 * [Intro to APIs](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/)
 * [Practice with APIs](https://github.com/ga-dc/weather_teller)
 * [Beautify your JSON in Chrome](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
